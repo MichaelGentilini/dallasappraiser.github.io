@@ -1,5 +1,6 @@
 a {
   float: left;
+  text-align: center;
 }
 
 H1 {
@@ -8,4 +9,10 @@ H1 {
 
 H2 {
   color: red;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  font-size: 1.5em;
 }
